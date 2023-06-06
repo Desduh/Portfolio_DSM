@@ -22,11 +22,13 @@ Minha paixão pela área acadêmica me impulsiona a desenvolver pesquisas para m
 <div>
   <h3> 2022.1 - Sistema de Help Desk 🧑‍💼</h3>
   <p> 
-  Em e minha equipe desenvolvemos um sistema de assistência em TI que oferece suporte para problemas técnicos. O sistema permite que os usuários criem uma conta e enviem suas dúvidas para os funcionários especializados na empresa de assistência. Além disso, os usuários têm a opção de atribuir uma nota às respostas recebidas.
+No início, o problema era a falta de um sistema de assistência em TI eficiente para lidar com os problemas técnicos enfrentados pelos usuários da empresa. Os funcionários muitas vezes não possuíam o conhecimento necessário para resolver essas questões de maneira satisfatória, resultando em atrasos e insatisfação dos clientes. Além disso, não havia um método eficaz para monitorar e avaliar o desempenho dos funcionários no atendimento aos chamados de suporte.
 
-Os funcionários, por sua vez, são gerenciados pelo administrador do sistema, que possui acesso a todas as dúvidas respondidas ou não por cada funcionário. O administrador também pode visualizar gráficos que mostram o percentual de solicitações atendidas, recusadas e em aberto, bem como a evolução do número total de solicitações. Além disso, o sistema fornece tabelas com as médias de avaliações de cada funcionário e do sistema como um todo.
+Para resolver esses desafios, desenvolvemos um sistema de assistência em TI abrangente. Os usuários podem criar uma conta e enviar suas dúvidas para a equipe especializada. Eles também têm a opção de avaliar as respostas recebidas, fornecendo um feedback valioso.
 
-Uma funcionalidade adicional é a capacidade de filtrar esses dados por um intervalo de tempo específico, permitindo ao administrador analisar o desempenho dos funcionários e do sistema ao longo do tempo.
+Os funcionários são gerenciados por um administrador, que tem acesso a todas as dúvidas respondidas ou não por cada funcionário. O administrador pode visualizar gráficos que mostram o status das solicitações e a evolução do volume total de chamados. Além disso, o sistema fornece tabelas com as médias de avaliações de cada funcionário e do sistema como um todo.
+
+Uma funcionalidade adicional é a capacidade de filtrar os dados por intervalo de tempo, permitindo ao administrador analisar o desempenho ao longo do tempo. Isso ajuda a identificar áreas que precisam de melhorias e a tomar ações adequadas para garantir um serviço de alta qualidade.
   </p>
   
  
@@ -44,7 +46,13 @@ Ao longo do projeto, pude demonstrar competências sólidas em resolução de pr
 <div>
   <h3> 2022.2 - Crawler 🤖 </h3>
   <p>
-Eu e minha equipe desenvolvemos um Crawler para capturar as citações dos associados do sindicato dos professores no Diário Oficial do Estado de São Paulo. Nesse projeto, tínhamos a empresa MidAll como cliente. Como parte da equipe, atuei no desenvolvimento do back-end utilizando Python e JavaScript, com foco na automação da busca dos associados no diário e na geração de relatórios diários das ocorrências.
+A empresa MidAll apresentou um desafio complexo e relevante: o sindicato dos professores enfrentava dificuldades em acompanhar e capturar as citações dos seus associados no extenso Diário Oficial do Estado de São Paulo. Compreendendo a importância dessa tarefa para o sindicato, minha equipe e eu desenvolvemos um Crawler personalizado que automatizasse esse processo e fornecesse relatórios diários das ocorrências.
+
+Nossa solução envolveu a colaboração com a empresa MidAll, que atuou como cliente nesse projeto. Com uma combinação de habilidades em programação, especialmente em Python e JavaScript, concentramos nossos esforços no desenvolvimento do back-end do sistema. Utilizando Python, criamos algoritmos eficientes para realizar buscas automáticas dos associados do sindicato no Diário Oficial. Essa automação permitiu que o sindicato economizasse tempo e recursos valiosos, eliminando a necessidade de realizar pesquisas manuais exaustivas.
+
+Além disso, a geração de relatórios diários das ocorrências foi um aspecto fundamental do projeto. Implementamos um sistema robusto que analisava as informações coletadas pelo Crawler e as consolidava em relatórios claros e concisos. Esses relatórios foram projetados para fornecer ao sindicato uma visão abrangente das citações dos associados, permitindo-lhes identificar rapidamente qualquer problema ou ocorrência relevante.
+
+No decorrer do projeto, minha contribuição foi fundamental para o desenvolvimento do back-end, garantindo a eficiência e a precisão das buscas automatizadas e a geração dos relatórios diários.
   </p>
   <h3> 📋 Minha experiência: </h3>
   <p>    
@@ -60,7 +68,11 @@ Em relação às soft skills, destaco minha capacidade de trabalhar em equipe. C
 <div>
   <h3> 2023.1 - Sistema de Gestão de Cobranças 💵</h3>
   <p> 
-Eu e minha equipe desenvolvemos um sistema de gerenciamento de cobranças aprimorado, que permite o cadastro de usuários, clientes e títulos, o registro das parcelas a receber e a geração de relatórios de cobrança com base em diferentes critérios de busca. Esse sistema possibilita uma gestão eficiente das cobranças, fornecendo informações detalhadas sobre os clientes, títulos em aberto e histórico de cobranças, além de facilitar a identificação de parcelas vencidas, pagas, em crédito ou em outras situações. Com funcionalidades abrangentes e relatórios personalizados, esse sistema é uma ferramenta poderosa para otimizar o processo de cobrança e auxiliar na tomada de decisões relacionadas a pagamentos e inadimplências.
+Em parceria com a equipe da Pro4Tech, nos empenhamos no desenvolvimento de um sistema que solucionasse essas questões. Foi realizado um estudo minucioso das necessidades da empresa, levando em consideração os desafios enfrentados e as melhorias desejadas. A partir dessas informações, trabalhamos no desenvolvimento de um sistema de gerenciamento de cobranças abrangente e eficiente.
+
+Com base nas necessidades específicas da Pro4Tech, desenvolvemos um sistema que permite o cadastro de usuários, clientes e títulos, facilitando o controle e a visualização das informações relacionadas às cobranças. Além disso, implementamos funcionalidades que permitem o registro das parcelas a receber e a geração de relatórios de cobrança personalizados, levando em consideração diferentes critérios de busca.
+
+O sistema desenvolvido proporciona uma gestão eficiente das cobranças para a Pro4Tech. Agora, a empresa tem acesso a informações detalhadas sobre seus clientes, títulos em aberto e histórico de cobranças, o que facilita a identificação de parcelas vencidas, pagas, em crédito ou em outras situações. Essa visão ampla e precisa das cobranças possibilita uma tomada de decisões mais embasada e contribui para otimizar o processo de cobrança como um todo. O sistema é uma ferramenta poderosa que auxilia a Pro4Tech a reduzir inadimplências, maximizar o recebimento de pagamentos e aprimorar o relacionamento com seus clientes.
   </p>
   <h3> 📋 Minha contribuições: </h3>
   <p>
