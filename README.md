@@ -22,7 +22,7 @@ Minha paixão pela área acadêmica me impulsiona a desenvolver pesquisas para m
 <div>
   <h3> 2022.1 - Sistema de Help Desk 🧑‍💼</h3>
   <p> 
-No início, o problema era a falta de um sistema de assistência em TI eficiente para lidar com os problemas técnicos enfrentados pelos usuários da empresa. Os funcionários muitas vezes não possuíam o conhecimento necessário para resolver essas questões de maneira satisfatória, resultando em atrasos e insatisfação dos clientes. Além disso, não havia um método eficaz para monitorar e avaliar o desempenho dos funcionários no atendimento aos chamados de suporte.
+O problema foi a falta de um sistema de assistência em TI eficiente para lidar com os problemas técnicos enfrentados pelos usuários da empresa. Os funcionários muitas vezes não possuíam o conhecimento necessário para resolver essas questões de maneira satisfatória, resultando em atrasos e insatisfação dos clientes. Além disso, não havia um método eficaz para monitorar e avaliar o desempenho dos funcionários no atendimento aos chamados de suporte.
 
 Para resolver esses desafios, desenvolvemos um sistema de assistência em TI abrangente. Os usuários podem criar uma conta e enviar suas dúvidas para a equipe especializada. Eles também têm a opção de avaliar as respostas recebidas, fornecendo um feedback valioso.
 
@@ -83,3 +83,5 @@ Durante o projeto, desenvolvi habilidades em liderança, coordenando a equipe co
 Em termos de hard skills, aprimorei minha expertise em linguagens de programação como Java, utilizado no desenvolvimento do back-end, e TypeScript e JavaScript, empregados no front-end com React. Também adquiri conhecimentos sólidos em frameworks, como o Spring para o back-end e o React para o front-end, o que contribuiu para a criação de uma aplicação robusta e interativa. Além disso, desenvolvi habilidades em gerenciamento de bancos de dados, utilizando o MySQL para garantir a persistência e segurança dos dados da aplicação.
   </p>
 </div>
+
+tratar a a mudança no grupo na ultima api e arrumar os resumos de cada projeto
