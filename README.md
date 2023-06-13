@@ -32,7 +32,10 @@ Uma funcionalidade adicional é a capacidade de filtrar os dados por intervalo d
   </p>
   
   <h4> Demonstração: </h4>
+  <div align="center">
+ 
   ![api_1](https://github.com/Desduh/Portfolio_DSM/assets/100285168/b235ee58-e08b-4557-bd9c-8694e16062bf)
+  </div>
   
   Confira o repositório [aqui](https://github.com/Desduh/BrazilianTech)
 
@@ -60,7 +63,10 @@ No decorrer do projeto, minha contribuição foi fundamental para o desenvolvime
   </p>
   
    <h4> Demonstração: </h4>
+    <div align="center">
+ 
   ![api_2](https://github.com/Desduh/Portfolio_DSM/assets/100285168/4f2ca4df-9eb4-4f60-afb0-2686fadb0fdd)
+  </div>
   
   Confira o repositório [aqui](https://github.com/All-Tech-DSM)
 
@@ -84,6 +90,12 @@ Com base nas necessidades específicas da Pro4Tech, desenvolvemos um sistema que
 
 O sistema desenvolvido proporciona uma gestão eficiente das cobranças para a Pro4Tech. Agora, a empresa tem acesso a informações detalhadas sobre seus clientes, títulos em aberto e histórico de cobranças, o que facilita a identificação de parcelas vencidas, pagas, em crédito ou em outras situações. Essa visão ampla e precisa das cobranças possibilita uma tomada de decisões mais embasada e contribui para otimizar o processo de cobrança como um todo. O sistema é uma ferramenta poderosa que auxilia a Pro4Tech a reduzir inadimplências, maximizar o recebimento de pagamentos e aprimorar o relacionamento com seus clientes.
   </p>
+  
+  <h4> Demonstração: </h4>
+  <div align="center">
+ 
+  ![api_2](https://github.com/Desduh/Portfolio_DSM/assets/100285168/4f2ca4df-9eb4-4f60-afb0-2686fadb0fdd)
+  </div>
   
   Confira o repositório [aqui](https://github.com/Neo-Brasil)
   
